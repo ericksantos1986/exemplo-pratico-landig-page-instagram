@@ -169,4 +169,14 @@ body{
     .group{
         border: 1px solid transparent;
     }
+
+    .app-download:nth-child(1){
+        width: 140px;
+        height: 42px;
+    }
+
+    .app-download:nth-child(2   ){
+        width: 140px;
+        height: 42px;
+    }
 }
